@@ -20,7 +20,7 @@ public class GUI extends JFrame {
     private JRadioButton radioText, radioEmail, radioDont;
     private JCheckBox checkTerms;
     private JButton buttonRegister, buttonReset;
-    ButtonGroup btgroupContact;
+    private ButtonGroup btgroupContact;
     String email, mobile, country, contact;
 
     public GUI() {
